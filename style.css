@@ -1,0 +1,53 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: coral;
+}
+#formSection{
+
+    
+}
+
+form{
+display: flex;
+flex-direction: column;
+gap: 20px;
+background-color: white;
+padding: 25px;
+margin: 20px;
+border-radius: 6px;
+box-shadow: 0px 0px 12px 4px gray;
+
+
+
+
+}
+
+#loginButton{
+background-color: rgb(14, 14, 206);
+padding: 10px;
+font-weight: 600;
+color: white;
+border-radius: 7px;
+border: none;
+}
+input{
+    padding: 8px;
+}
+.colorfulName{
+    color: #0000ff;
+
+
+}
+
+
+#colorfulBG{
+    background-color: #6363bb;
+    color: white;
+    border-radius: 2px;
+}
